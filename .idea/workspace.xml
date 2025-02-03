@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06c9e211-0c22-4adb-9744-f41cd81d60bf" name="Changes" comment="Estudo inicial sobre a Regressão Linear. Treinamento com o dataset 'Housing' e 'Diabets'.">
-      <change afterPath="$PROJECT_DIR$/../../Agentes Inteligentes/Atividade 01/estudoAEstrela.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Análise de Dados.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GridSearch/KNN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GridSearch/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modelos Lineares/Minimos Quadrados Ordinarios/.ipynb_checkpoints/Regressão Linear com EQM - Dataset Diabetes -checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modelos Lineares/Minimos Quadrados Ordinarios/.ipynb_checkpoints/Regressão Linear com EQM - Dataset Housing-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modelos Lineares/Minimos Quadrados Ordinarios/.ipynb_checkpoints/Regressão Linear com Ridge-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modelos Lineares/Minimos Quadrados Ordinarios/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modelos Lineares/Minimos Quadrados Ordinarios/Regressão Linear com EQM - Dataset Diabetes .ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modelos Lineares/Minimos Quadrados Ordinarios/Regressão Linear com EQM - Dataset Housing.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modelos Lineares/Minimos Quadrados Ordinarios/dataset/HousePrices_HalfMil.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modelos Lineares/Minimos Quadrados Ordinarios/img/RegressaoLinear_MQO.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modelos Lineares/Minimos Quadrados Ordinarios/minimosQuadradosOrdinarios.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modelos Lineares/Minimos Quadrados Ordinarios/modelo_preço" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Agentes Inteligentes/.idea/Agentes Inteligentes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Agentes Inteligentes/.idea/Agentes Inteligentes.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Agentes Inteligentes/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Agentes Inteligentes/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Agentes Inteligentes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Agentes Inteligentes/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="06c9e211-0c22-4adb-9744-f41cd81d60bf" name="Changes" comment="Estudo inicial sobre a Regressão Linear. Treinamento com o dataset 'Housing' e 'Diabets'." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +69,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738600352952</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Estudo inicial sobre a Regressão Linear. Treinamento com o dataset 'Housing' e 'Diabets'.">
+      <option name="closed" value="true" />
+      <created>1738600446663</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738600446663</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
