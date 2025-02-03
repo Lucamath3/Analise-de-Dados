@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06c9e211-0c22-4adb-9744-f41cd81d60bf" name="Changes" comment="Estudo inicial sobre a Regressão Linear. Treinamento com o dataset 'Housing' e 'Diabets'.">
+      <change afterPath="$PROJECT_DIR$/../../Agentes Inteligentes/Atividade 01/estudoAEstrela.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Análise de Dados.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GridSearch/KNN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GridSearch/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modelos Lineares/Minimos Quadrados Ordinarios/.ipynb_checkpoints/Regressão Linear com EQM - Dataset Diabetes -checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modelos Lineares/Minimos Quadrados Ordinarios/.ipynb_checkpoints/Regressão Linear com EQM - Dataset Housing-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modelos Lineares/Minimos Quadrados Ordinarios/.ipynb_checkpoints/Regressão Linear com Ridge-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modelos Lineares/Minimos Quadrados Ordinarios/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modelos Lineares/Minimos Quadrados Ordinarios/Regressão Linear com EQM - Dataset Diabetes .ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modelos Lineares/Minimos Quadrados Ordinarios/Regressão Linear com EQM - Dataset Housing.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modelos Lineares/Minimos Quadrados Ordinarios/dataset/HousePrices_HalfMil.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modelos Lineares/Minimos Quadrados Ordinarios/img/RegressaoLinear_MQO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modelos Lineares/Minimos Quadrados Ordinarios/minimosQuadradosOrdinarios.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modelos Lineares/Minimos Quadrados Ordinarios/modelo_preço" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Agentes Inteligentes/.idea/Agentes Inteligentes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Agentes Inteligentes/.idea/Agentes Inteligentes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Agentes Inteligentes/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Agentes Inteligentes/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Agentes Inteligentes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Agentes Inteligentes/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2rSgYNmqVkQAj130L8q98jiOz4a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.minimosQuadradosOrdinarios.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Modelos Lineares/Minimos Quadrados Ordinarios/img" />
+      <recent name="$PROJECT_DIR$/Modelos Lineares/Minimos Quadrados Ordinarios" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-1b1018131e27-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.180" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06c9e211-0c22-4adb-9744-f41cd81d60bf" name="Changes" comment="" />
+      <created>1736557936728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736557936728</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Estudo inicial sobre a Regressão Linear. Treinamento com o dataset 'Housing' e 'Diabets'.">
+      <option name="closed" value="true" />
+      <created>1738600352952</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738600352952</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Estudo inicial sobre a Regressão Linear. Treinamento com o dataset 'Housing' e 'Diabets'." />
+    <option name="LAST_COMMIT_MESSAGE" value="Estudo inicial sobre a Regressão Linear. Treinamento com o dataset 'Housing' e 'Diabets'." />
+  </component>
+</project>
