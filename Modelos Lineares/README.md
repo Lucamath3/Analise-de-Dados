@@ -41,3 +41,11 @@ regressão ridge e regressão lasso.
 Operator (operadorde seleçãoe redução mínima absoluta), que é usado tanto para regularização quanto para seleção de 
 modelos. Se um modelo usar a técnica de regularização L1, ele será chamado de regressão lasso.
 
+![Lasso](img/lasso.png) 
+
+Alfa (α) é o termo de penalidade que denota a quantidade de redução (ou restrição) que será implementada na equação. 
+Com alfa definido como zero, você verá que esse é o equivalente ao modelo de regressão linear da equação 1.2, e um valor
+maior penaliza a função de otimização. Portanto, a regressão com laço diminui os coeficientes e ajuda a reduzir a 
+complexidade do modelo e a multicolinearidade.
+
+**Alfa (α) pode ser qualquer número de valor real entre zero e infinito; quanto maior o valor, mais agressiva é a penalização.**
