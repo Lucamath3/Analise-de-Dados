@@ -22,3 +22,22 @@ reais seja a menor possível.
 
 ![Regressão Linear com MQO](img/RegressaoLinear_MQO.png)
 
+### 1.2 - Regularização
+
+Devemos ter em mente sempre que:
+ 
+- O overfitting (superajuste) ocorre quando o modelo tem bom desempenho no conjunto de treinamento, mas não tão bom nos
+dados não vistos (teste).
+- A subadaptação (underfitting) ocorre quando o desempenho não é bom nem no conjunto de treinamento nem no conjunto de 
+teste.
+
+Esses dois fenômenos ocorrem devido ao ajuste dos pesos w = (w<sub>1</sub>, w<sub>2</sub>,...,w<sub>n</sub>). Objetivando 
+evita-los, há diferentes maneiras de reduzir a complexidade do modelo e evitar o ajuste excessivo em modelos lineares: 
+regressão ridge e regressão lasso.
+
+#### 1.2.1 - Lasso
+
+É também conhecido como método de regressão penalizada. Lasso é a abreviação de Least Absolute Shrinkageand Selection 
+Operator (operadorde seleçãoe redução mínima absoluta), que é usado tanto para regularização quanto para seleção de 
+modelos. Se um modelo usar a técnica de regularização L1, ele será chamado de regressão lasso.
+
